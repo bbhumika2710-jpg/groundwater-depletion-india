@@ -3,7 +3,7 @@ A District-Level Data Visualisation and Statistical Analysis Study
 
 About the project
 
-Analysis of groundwater extraction patterns across Indian districts using CGWB 2025 data.
+Analysis of groundwater extraction patterns across Indian districts using CGWB 2025 data
 
 ##Technologies Used
 - Python
@@ -18,7 +18,7 @@ Analysis of groundwater extraction patterns across Indian districts using CGWB 2
 - Punjab, Rajasthan and Haryana have the highest weighted extraction stages.
 Dataset Source
 
-Central Ground Water Board (CGWB), 2025.
+Central Ground Water Board (CGWB), 2025
 
 Project Notebook
 
